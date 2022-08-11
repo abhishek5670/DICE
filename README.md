@@ -6,3 +6,4 @@ for this program you have to import some library:
   3. Pygame -pip install pygame(paste in command line)
 If you want to change image of faces of dice image use .png file.
 In this file music file also.
+.exe file also present to run the programme directly.
